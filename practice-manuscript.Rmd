@@ -11,7 +11,8 @@ author:
     
   - name          : "Brad Pitt"
     affiliation   : "2"
-    
+  - name          : "Leonardo Di Caprio"
+    affiliation   : "2"
 
 affiliation:
   - id            : "1"
